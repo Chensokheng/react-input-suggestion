@@ -1,0 +1,17 @@
+{
+	"name": "react-input-suggestion",
+	"version": "1.0.0",
+	"description": "An accessible React component to take the pain out of creating auto-suggestion components",
+	"main": "src/index.tsx",
+	"keywords": [
+		"react-component"
+	],
+	"author": "chensokheng",
+	"license": "ISC",
+	"peerDependencies": {
+		"react": "^18.1.0"
+	},
+	"devDependencies": {
+		"@types/react": "^18.0.9"
+	}
+}
