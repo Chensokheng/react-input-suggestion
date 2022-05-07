@@ -2,7 +2,7 @@
 	"name": "react-input-suggestion",
 	"version": "1.0.0",
 	"description": "An accessible React component to take the pain out of creating auto-suggestion components",
-	"main": "src/index.tsx",
+	"main": "dist/src/index.js",
 	"keywords": [
 		"react-component"
 	],
